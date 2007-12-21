@@ -11,6 +11,7 @@ License: GPL
 Group: System/Kernel and hardware
 Url: http://omnitty.sourceforge.net/
 BuildRequires: librote-devel
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Omnitty is a curses-based program that allows one to log into 
