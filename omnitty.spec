@@ -1,6 +1,6 @@
 %define name omnitty
 %define version 0.2.8
-%define release %mkrel 2
+%define release %mkrel 4
 
 Summary: Omnitty ssh multiplexer
 Name: %{name}
