@@ -3,7 +3,7 @@
 Summary: Omnitty ssh multiplexer
 Name:    omnitty
 Version: 0.2.8
-Release: 7
+Release: 8
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group:   System/Kernel and hardware
