@@ -7,7 +7,7 @@ Release: 8
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group:   System/Kernel and hardware
-Url:     http://omnitty.sourceforge.net/
+Url:     https://omnitty.sourceforge.net/
 BuildRequires: librote-devel
 
 %description
